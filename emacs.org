@@ -1,0 +1,4 @@
+启动窗口的默认大小和默认位置
+
+- 禁止emacs自动生成备份
+  添加(setq make-backup-files nil)
